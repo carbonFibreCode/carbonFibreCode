@@ -1,6 +1,12 @@
-# 💫 Hi 👋, I'm Arun
+# Hi 👋, I'm Arun
 
-Full-stack developer focused on building scalable, performant applications. Always open to collaborating on interesting projects!
+I love to code and solve complex problems.
+- more of a SDE than a particular tech stack grinder
+- i love to work with latest tech stack and frameworks
+- love to build systems and work on complex software machines.
+
+- currently building low code app builder (flutter and kotlin) at digia.tech
+- Active contributor to twenty (YC23, 40K Github stars)
 
 **Reach out:** ✉️ [kumararun97429@gmail.com](mailto:kumararun97429@gmail.com)
 
