@@ -7,7 +7,7 @@ Full-stack developer focused on building scalable, performant applications. Alwa
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your-instagram-username) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/your-x-username) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-7a535b277) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/no_arun_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
@@ -29,11 +29,11 @@ Full-stack developer focused on building scalable, performant applications. Alwa
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="Arun's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="Arun's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="170px" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0" alt="Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0" alt="Visit Count" />
 </p>
