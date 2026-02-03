@@ -2,7 +2,7 @@
 
 I love to code and solve complex problems.
 - more of a SDE than a particular tech stack grinder
-- i love to work with latest tech stack and frameworks
+- tech stack doesn't matter but still i love to work with latest tech stack and frameworks tho
 - love to build systems and work on complex software machines.
 
 - currently building low code app builder (flutter and kotlin) at digia.tech
