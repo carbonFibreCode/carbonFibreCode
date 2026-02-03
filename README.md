@@ -2,12 +2,12 @@
 
 Full-stack developer focused on building scalable, performant applications. Always open to collaborating on interesting projects!
 
-**Reach out:** ✉️ [your-email@example.com](mailto:your-email@example.com)
+**Reach out:** ✉️ [kumararun97429@gmail.com](mailto: kumararun97429@gmail.com)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your-instagram-username) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/your-x-username) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your-instagram-username) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/your-x-username) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumararun97429@gmail.com)
 
 ---
 
