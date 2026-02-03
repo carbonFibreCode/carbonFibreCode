@@ -2,7 +2,7 @@
 
 Full-stack developer focused on building scalable, performant applications. Always open to collaborating on interesting projects!
 
-**Reach out:** ✉️ [kumararun97429@gmail.com](mailto:  kumararun97429@gmail.com)
+**Reach out:** ✉️ kumararun97429@gmail.com
 
 ---
 
