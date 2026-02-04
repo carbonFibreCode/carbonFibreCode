@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Arun
+# Hi, I'm Arun
 
 I love to code and solve complex problems.
 - More of an **SDE** than a tech stack grinder.
