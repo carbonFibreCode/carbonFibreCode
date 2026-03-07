@@ -1,10 +1,6 @@
 # Hi, I'm Arun
 
 I love to code and solve complex problems.
-- More of an **SDE** than a tech stack grinder.
-- Architecture and systems-focused; I love building complex software machines.
-- Passionate about working with the latest frameworks and high-performance tech.
-
 ---
 
 ### Highlights
