@@ -4,7 +4,7 @@ I love to code and solve complex problems.
 ---
 
 ### Highlights
-* **Currently contribute to building modern OSS alternative to salesforce:** [**Twenty**](https://github.com/twentyhq/twenty) (YC23, 40k+ GitHub stars).
+* **Currently contributing to build modern OSS alternative to salesforce:** [**Twenty**](https://github.com/twentyhq/twenty) (YC23, 40k+ GitHub stars).
 * **Ex - SDE Intern:** Low-code app builder (Flutter & Kotlin) at [digia.tech](https://digia.tech).
 
 **Reach out:** ✉️ [kumararun97429@gmail.com](mailto:kumararun97429@gmail.com)
