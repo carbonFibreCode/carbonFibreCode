@@ -5,7 +5,7 @@ I love to code and solve complex problems.
 
 ### Highlights of my Past work
 * **contributor to build modern OSS alternative to salesforce:** [**Twenty**](https://github.com/twentyhq/twenty) (YC23, 40k+ GitHub stars).
-* **Ex - Product dev Intern:** Low-code app builder (Flutter & Kotlin) at [digia.tech](https://digia.tech).
+* **Ex - Software dev Intern:** Low-code app builder (Flutter & Kotlin) at [digia.tech](https://digia.tech).
 
 **Reach out:** ✉️ [kumararun97429@gmail.com](mailto:kumararun97429@gmail.com)
 
